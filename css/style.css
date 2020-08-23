@@ -1,7 +1,16 @@
 body {
     background-color: #d7d6d6;
-}
 
+}
+.accordion {
+    display: flex;
+    justify-content: center;
+    alignment: center;
+    padding: 50px;
+    wrap-option: wrapper;
+    text-align: center;
+
+}
 
 
 
